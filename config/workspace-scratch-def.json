@@ -1,7 +1,8 @@
 {
-  "Company": "Your Company",
+  "Company": "MARZ CORP",
   "Country": "US",
   "Email": "yourname@example.com",
+  "LastName": "Marzilli",
   "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
